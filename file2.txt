@@ -1,1 +1,1 @@
-Second file, first string
+New file2
